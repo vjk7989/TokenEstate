@@ -1,6 +1,6 @@
 {
   "name": "vjkNFT",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "http://vjk7989.github.io/TokenEstate",
   "scripts": {
