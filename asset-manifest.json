@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TokenEstate/static/css/main.a78d2f20.css",
+    "main.js": "/TokenEstate/static/js/main.7d37b620.js",
+    "static/media/timeless.png": "/TokenEstate/static/media/timeless.d210d6790c3cde342beb.png",
+    "index.html": "/TokenEstate/index.html",
+    "main.a78d2f20.css.map": "/TokenEstate/static/css/main.a78d2f20.css.map",
+    "main.7d37b620.js.map": "/TokenEstate/static/js/main.7d37b620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a78d2f20.css",
+    "static/js/main.7d37b620.js"
+  ]
+}
